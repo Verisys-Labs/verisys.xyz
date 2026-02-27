@@ -17,23 +17,6 @@ The Verisys platform provides everything needed to deploy compliant AI agents:
 *   **Compliance Middleware**: Integrate robust rules engines for regulated interactions with both DeFi protocols and CeFi liquidity.
 *   **Risk & Reputation**: Leverage real-time risk scoring, comprehensive activity monitoring, and immutable audit logs for deployed capital agents.
 
-## Project Structure
-
-This repository contains the landing page for Verisys. It is built using clean, vanilla web technologies to ensure maximum performance and flexibility:
-
-*   `index.html`: The core structure, narrative flow, and content of the landing page.
-*   `style.css`: The complete design system, featuring a modern, dark-themed aesthetic with cyan and purple accents.
-*   `script.js`: Interaction logic, scroll-based animations, and glow effects.
-
-## Local Development
-
-To view and modify the landing page locally:
-
-1.  Clone this repository.
-2.  Serve the directory using any local web server. For example, using Python:
-    `python -m http.server 8080`
-3.  Open `http://localhost:8080` in your web browser.
-
 ## Contact
 
 To request access or discuss enterprise integration, contact us at connect@verisys.xyz.
